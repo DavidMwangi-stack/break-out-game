@@ -1,6 +1,3 @@
-
-This is a classic Breakout game built using HTML, CSS and JavaScript.
-
 How to Play:
 Use f and j keys to move the paddle left or right.
 
